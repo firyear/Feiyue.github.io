@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in School of Mathematical Sciences, Fudan University, 2025
+* -Main courses: Mathematical Analysis/Advanced Algebra/University Physics/Probability Theory/StatisticalInference/Time Series Analysis/Multivariate Analysis/Categorical Data Analysis
+* -Awards: First Prize in National Undergraduate Mathematics Competition(twice in 2022 and 2023)/ First Prize inShanghai Mathematics Competition(twice in 2022 and 2023) / Undergraduate Scholarship of Fudan University /Fudan University "Hehechang" Scholarship/ Major Scholarship of Fudan University
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*Fudan University Jul.2024-Aug.2024
+*School of Mathematical Sciences，Fudan University
+*-Under the supervision of Liu Yanchao, a second-year doctoral student at the School of Mathematical Sciences, FudanUniversity, I am assisting in a research project related to airline network optimization. The primary objective of thisproject is to analyze and optimize the topological structure and layout efficiency of the route network of Chineseairlines. By applying statistical analysis and operations research methods, we aim to enhance the operationalefficiency of the airline network and reduce operational costs.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Fudan University Aug.2024-
+*Shanghai Center for Mathematical Sciences
+*-Under the guidance of Dr. Wang Tiandong, Assistant Professor at the Shanghai Center for Mathematical Sciences,Fudan University, I am conducting independent research as an undergraduate. This study focuses on the optimizationof the Weighted PageRank algorithm under specific requirements. The PageRank algorithm determines theimportance ranking of nodes based on the connections between them. However, certain nodes, resembling marketingaccounts, may undesirably attain unjustly high rankings. To address this issue, we propose two original correctionmethods based on k-core decomposition. Currently, the majority of the research has been completed
   
-Skills
+RESEARCH EXPERIENCE(COMMERCIAL)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*Fudan University Jan.2025-Feb.2025
+*Shanghai Center for Mathematical Sciences
+*RESEARCH EXPERIENCE(COMMERCIAL)
+-I helped complete the task of developing examination materials for three categories of certifications: "Digital
+Solution Designer," "Digital Twin Application Technician," and "Network and Information Security Administrator
+(Data Security Administrator)." This work included the design of theoretical and practical simulation exam papers,
+question banks, as well as the certification evaluation schemes and detailed assessment criteria for each category
+and level of certification.
