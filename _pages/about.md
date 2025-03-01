@@ -17,7 +17,7 @@ E-mail:
 firyear@163.com 
 
 thentimecomes@gmail.com
-![wechat](https://github.com/user-attachments/assets/b865aa06-e157-479e-be8d-10a1489d03e9)
+
 
 
 
