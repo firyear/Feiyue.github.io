@@ -25,9 +25,9 @@ author:
   avatar           : "self.png"
   name             : "Pan Feiyue"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Mathematics and Applied Mathematics, Fudan University"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   uri              : # URL
   email            : "firyear@163.com" 
 
