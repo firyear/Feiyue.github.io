@@ -19,26 +19,26 @@ Education
 
 Research experience
 ======
-*Fudan University Jul.2024-Aug.2024
+* Fudan University Jul.2024-Aug.2024
 
-*School of Mathematical Sciences，Fudan University
+* School of Mathematical Sciences，Fudan University
 
-*-Under the supervision of Liu Yanchao, a second-year doctoral student at the School of Mathematical Sciences, FudanUniversity, I am assisting in a research project related to airline network optimization. The primary objective of thisproject is to analyze and optimize the topological structure and layout efficiency of the route network of Chineseairlines. By applying statistical analysis and operations research methods, we aim to enhance the operationalefficiency of the airline network and reduce operational costs.
+* -Under the supervision of Liu Yanchao, a second-year doctoral student at the School of Mathematical Sciences, FudanUniversity, I am assisting in a research project related to airline network optimization. The primary objective of thisproject is to analyze and optimize the topological structure and layout efficiency of the route network of Chineseairlines. By applying statistical analysis and operations research methods, we aim to enhance the operationalefficiency of the airline network and reduce operational costs.
 
 
-*Fudan University Aug.2024-
+* Fudan University Aug.2024-
 
-*Shanghai Center for Mathematical Sciences
+* Shanghai Center for Mathematical Sciences
 
-*-Under the guidance of Dr. Wang Tiandong, Assistant Professor at the Shanghai Center for Mathematical Sciences,Fudan University, I am conducting independent research as an undergraduate. This study focuses on the optimizationof the Weighted PageRank algorithm under specific requirements. The PageRank algorithm determines theimportance ranking of nodes based on the connections between them. However, certain nodes, resembling marketingaccounts, may undesirably attain unjustly high rankings. To address this issue, we propose two original correctionmethods based on k-core decomposition. Currently, the majority of the research has been completed
+* -Under the guidance of Dr. Wang Tiandong, Assistant Professor at the Shanghai Center for Mathematical Sciences,Fudan University, I am conducting independent research as an undergraduate. This study focuses on the optimizationof the Weighted PageRank algorithm under specific requirements. The PageRank algorithm determines theimportance ranking of nodes based on the connections between them. However, certain nodes, resembling marketingaccounts, may undesirably attain unjustly high rankings. To address this issue, we propose two original correctionmethods based on k-core decomposition. Currently, the majority of the research has been completed
   
 RESEARCH EXPERIENCE(COMMERCIAL)
 ======
-*Fudan University Jan.2025-Feb.2025
+* Fudan University Jan.2025-Feb.2025
 
-*Shanghai Center for Mathematical Sciences
+* Shanghai Center for Mathematical Sciences
 
-*-I helped complete the task of developing examination materials for three categories of certifications: "Digital
+* -I helped complete the task of developing examination materials for three categories of certifications: "Digital
 Solution Designer," "Digital Twin Application Technician," and "Network and Information Security Administrator
 (Data Security Administrator)." This work included the design of theoretical and practical simulation exam papers,
 question banks, as well as the certification evaluation schemes and detailed assessment criteria for each category
