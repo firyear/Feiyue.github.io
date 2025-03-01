@@ -26,7 +26,7 @@ firyear@163.com
 
 thentimecomes@gmail.com
 
-[wechat](images/wechat.png)
+[Wechat](images/wechat.png)
 
 
 
