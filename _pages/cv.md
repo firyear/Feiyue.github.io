@@ -32,7 +32,7 @@ Research experience
 
 * -Under the guidance of Dr. Wang Tiandong, Assistant Professor at the Shanghai Center for Mathematical Sciences,Fudan University, I am conducting independent research as an undergraduate. This study focuses on the optimizationof the Weighted PageRank algorithm under specific requirements. The PageRank algorithm determines theimportance ranking of nodes based on the connections between them. However, certain nodes, resembling marketingaccounts, may undesirably attain unjustly high rankings. To address this issue, we propose two original correctionmethods based on k-core decomposition. Currently, the majority of the research has been completed.
   
-RESEARCH EXPERIENCE(COMMERCIAL)
+Research experience(commercial)
 ======
 * Fudan University Jan.2025-Feb.2025
 
@@ -43,3 +43,8 @@ Solution Designer," "Digital Twin Application Technician," and "Network and Info
 (Data Security Administrator)." This work included the design of theoretical and practical simulation exam papers,
 question banks, as well as the certification evaluation schemes and detailed assessment criteria for each category
 and level of certification.
+
+More
+======
+
+
