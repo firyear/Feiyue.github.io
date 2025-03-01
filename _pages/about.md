@@ -14,7 +14,7 @@ Contact
 Address:220 Handan Road.Shanghai, 200433, China
 
 E-mail: 
-firyear@163.com/
+firyear@163.com\
 
 thentimecomes@gmail.com
 
