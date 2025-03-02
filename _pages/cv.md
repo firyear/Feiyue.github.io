@@ -30,7 +30,7 @@ Research experience
 
 * Shanghai Center for Mathematical Sciences
 
-* -Under the guidance of Dr. Wang Tiandong, Assistant Professor at the Shanghai Center for Mathematical Sciences,Fudan University, I am conducting independent research as an undergraduate. This study focuses on the optimizationof the Weighted PageRank algorithm under specific requirements. The PageRank algorithm determines theimportance ranking of nodes based on the connections between them. However, certain nodes, resembling marketingaccounts, may undesirably attain unjustly high rankings. To address this issue, we propose two original correctionmethods based on k-core decomposition. Currently, the majority of the research has been completed.
+* -Under the guidance of Dr. Wang Tiandong, Assistant Professor at the Shanghai Center for Mathematical Sciences,Fudan University, I am conducting independent research as an undergraduate. This study focuses on the optimizationof the Weighted PageRank algorithm under specific requirements. The PageRank algorithm determines theimportance ranking of nodes based on the connections between them. However, certain nodes, resembling marketingpages, may undesirably attain unjustly high rankings. To address this issue, we propose two original correctionmethods based on k-core decomposition. Currently, the majority of the research has been completed.
   
 Research experience(commercial)
 ======
