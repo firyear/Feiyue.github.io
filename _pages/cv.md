@@ -46,6 +46,6 @@ and level of certification.
 
 More
 ======
-[CV](https://github.com/firyear/Feiyue.github.io/blob/master/assets/Fudan-Mathematics%20and%20applied%20mathematics-PanFeiyue-English%20cv%20.pdf)
+[CV](https://github.com/firyear/Feiyue.github.io/blob/84830005460afd0375dc8e440ebf187bcfa00c35/_pages/Fudan-Mathematics%20and%20applied%20mathematics-PanFeiyue-English%20cv%20.pdf)
 
 
